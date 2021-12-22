@@ -11,6 +11,7 @@ To run the application pls use the Makefile commands or Use the commands referen
 To run the application run either of the follow commands:
 
 make run
+
 Or
 
 go run main.go
